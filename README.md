@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/charvigupta123/Industrial-training-with-java/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/charvigupta123/Industrial-training-with-java/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/charvigupta123/Industrial-training-with-java/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/charvigupta123/Industrial-training-with-java/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/charvigupta123/Industrial-training-with-java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/charvigupta123/Industrial-training-with-java/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/charvigupta123/Industrial-training-with-java/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/charvigupta123/Industrial-training-with-java/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/charvigupta123/Industrial-training-with-java/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/charvigupta123/Industrial-training-with-java/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/charvigupta123/Industrial-training-with-java/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Depth-First Search
 |  |
 | ------- |
